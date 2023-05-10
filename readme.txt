@@ -50,3 +50,6 @@ basecalling/中：
 5. 整理报告
 6. 数据清理于备份
 7. 邮件发送
+
+```Python3
+python basecalling/pbsBcl2fastq.py --help
